@@ -1,0 +1,6 @@
+{
+    "register": {
+        "email_empty": "You will need to enter an email for this to work...",
+        "email_invalid": "That email is not valid"
+    }
+}

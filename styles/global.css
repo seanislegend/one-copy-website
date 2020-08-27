@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (min-width: 640px) {
+    body,
+    #__next {
+        min-height: 100vh;
+    }
+}

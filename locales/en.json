@@ -1,0 +1,20 @@
+{
+    "seo": {
+        "title": "One Copy: Copy management made stress free",
+        "description": "I want to make the management, exporting, and syncing of your copy a stress-free task. No more chaos among myriads of sources; let's make your One Copy.",
+        "canonical": "https://youronecopy.com"
+    },
+    "home": {
+        "intro": {
+            "label": "Coming soon",
+            "title": ["Copy management made", "stress free"],
+            "text": "I want to make the management, exporting, and syncing of your copy a stress-free task. No more chaos among myriads of sources; let's make your One Copy."
+        },
+        "register": {
+            "title": "The app will be live in Autumn 2020, register for an invite:",
+            "email_placeholder": "Enter your email",
+            "submit": "Join the list",
+            "success": ["Done!", "I'll send an email when the app is ready to use."]
+        }
+    }
+}
